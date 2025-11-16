@@ -1,3 +1,0 @@
-python-telegram-bot>=20.0
-requests>=2.28.0
-PyYAML ; python_version >= "3.8"
